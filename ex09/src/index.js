@@ -2,10 +2,10 @@ function main(numOne, numTwo) {
     // Only change code below this line  
         var numOne;
         var numTwo;
-        var sum;
-        sum = numOne - numTwo;
+        var difference;
+        difference = numOne - numTwo;
     // Only change code above this line
-    return sum;    
+    return difference;    
 }
 
 console.log(main(15, 8));
